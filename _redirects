@@ -4,3 +4,5 @@
 /learn             https://learn.hashicorp.com/terraform/cdktf/cdktf-intro
 /discuss           https://discuss.hashicorp.com/c/terraform-core/cdk-for-terraform/47
 /issues/:id        https://github.com/hashicorp/terraform-cdk/issues/:id
+/feature           https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=
+/bug               https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=bug&template=bug-report.md&title=
