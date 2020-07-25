@@ -7,3 +7,5 @@
 /feature           https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=
 /bug               https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=bug&template=bug-report.md&title=
 /escape-hatch      https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/escape-hatch.md
+/jsii              https://github.com/aws/jsii
+/constructs        https://github.com/aws/constructs
