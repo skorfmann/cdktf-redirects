@@ -9,3 +9,4 @@
 /escape-hatch      https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/escape-hatch.md
 /jsii              https://github.com/aws/jsii
 /constructs        https://github.com/aws/constructs
+/awesome           https://github.com/skorfmann/awesome-terraform-cdk
