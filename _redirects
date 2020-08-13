@@ -11,3 +11,4 @@
 /constructs        https://github.com/aws/constructs
 /awesome           https://github.com/skorfmann/awesome-terraform-cdk
 /imports           https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/importing-providers-and-modules.md     
+/dev               https://cdk.dev
