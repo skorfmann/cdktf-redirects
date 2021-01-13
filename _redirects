@@ -20,3 +20,4 @@
 /job-us            https://www.hashicorp.com/job/2545021
 /job-eu            https://www.hashicorp.com/job/2548521
 /we-are-hiring     https://www.hashicorp.com/job/2545021
+/migrate-state     https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/remote-backend.md#migrating-local-state-storage-to-remote
