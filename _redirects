@@ -21,3 +21,5 @@
 /job-eu            https://www.hashicorp.com/job/2548521
 /we-are-hiring     https://www.hashicorp.com/job/2545021
 /migrate-state     https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/remote-backend.md#migrating-local-state-storage-to-remote
+/0.1               https://www.hashicorp.com/blog/announcing-cdk-for-terraform-0-1
+/github-nuget      https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-dotnet-cli-for-use-with-github-packages#authenticating-to-github-packages
