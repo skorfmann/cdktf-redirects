@@ -6,11 +6,11 @@
 /issues/:id        https://github.com/hashicorp/terraform-cdk/issues/:id
 /feature           https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=enhancement&template=feature-request.md&title=
 /bug               https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=bug&template=bug-report.md&title=
-/escape-hatch      https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/escape-hatch.md
+/escape-hatch      https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/escape-hatch.md
 /jsii              https://github.com/aws/jsii
 /constructs        https://github.com/aws/constructs
 /awesome           https://github.com/skorfmann/awesome-terraform-cdk
-/imports           https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/importing-providers-and-modules.md     
+/imports           https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/importing-providers-and-modules.md     
 /dev               https://cdk.dev
 /provider/:name    https://github.com/terraform-cdk-providers/cdktf-provider-:name
 /provider          https://github.com/terraform-cdk-providers
@@ -20,6 +20,6 @@
 /job-us            https://www.hashicorp.com/job/2545021
 /job-eu            https://www.hashicorp.com/job/2548521
 /we-are-hiring     https://www.hashicorp.com/job/2545021
-/migrate-state     https://github.com/hashicorp/terraform-cdk/blob/master/docs/working-with-cdk-for-terraform/remote-backend.md#migrating-local-state-storage-to-remote
+/migrate-state     https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/remote-backend.md#migrating-local-state-storage-to-remote
 /0.1               https://www.hashicorp.com/blog/announcing-cdk-for-terraform-0-1
 /github-nuget      https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-dotnet-cli-for-use-with-github-packages#authenticating-to-github-packages
