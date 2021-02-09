@@ -10,7 +10,7 @@
 /jsii              https://github.com/aws/jsii
 /constructs        https://github.com/aws/constructs
 /awesome           https://github.com/skorfmann/awesome-terraform-cdk
-/imports           https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/importing-providers-and-modules.md     
+/imports           https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers-and-modules.md
 /dev               https://cdk.dev
 /provider/:name    https://github.com/terraform-cdk-providers/cdktf-provider-:name
 /provider          https://github.com/terraform-cdk-providers
