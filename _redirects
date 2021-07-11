@@ -26,3 +26,4 @@
 /modules-and-providers https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers-and-modules.md
 /office-hours      https://www.youtube.com/watch?v=BkypHylJcgs&ab_channel=HashiCorp
 /multiple-stacks   https://github.com/hashicorp/terraform-cdk/blob/69e077545f82dd9ee199d8da45ba84503e59da2d/docs/working-with-cdk-for-terraform/app-stacks-concept.md
+/plus              https://github.com/cdktf-plus/cdktf-plus
