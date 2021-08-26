@@ -10,7 +10,7 @@
 /jsii              https://github.com/aws/jsii
 /constructs        https://github.com/aws/constructs
 /awesome           https://github.com/skorfmann/awesome-terraform-cdk
-/imports           https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers-and-modules.md
+/imports           https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md
 /dev               https://cdk.dev
 /provider/:name    https://github.com/hashicorp/cdktf-provider-:name
 /provider          https://github.com/orgs/hashicorp/repositories?q=pre-built-provider&type=&language=&sort=
@@ -23,7 +23,7 @@
 /migrate-state     https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/remote-backend.md#migrating-local-state-storage-to-remote
 /0.1               https://www.hashicorp.com/blog/announcing-cdk-for-terraform-0-1
 /github-nuget      https://docs.github.com/en/free-pro-team@latest/packages/guides/configuring-dotnet-cli-for-use-with-github-packages#authenticating-to-github-packages
-/modules-and-providers https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers-and-modules.md
+/modules-and-providers https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md
 /office-hours      https://www.youtube.com/watch?v=BkypHylJcgs&ab_channel=HashiCorp
 /multiple-stacks   https://github.com/hashicorp/terraform-cdk/blob/69e077545f82dd9ee199d8da45ba84503e59da2d/docs/working-with-cdk-for-terraform/app-stacks-concept.md
 /plus              https://github.com/cdktf-plus/cdktf-plus
