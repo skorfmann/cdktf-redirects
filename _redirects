@@ -29,3 +29,4 @@
 /plus              https://github.com/cdktf-plus/cdktf-plus
 /watch             https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/watch.md
 /links             https://github.com/skorfmann/cdktf-redirects/blob/master/_redirects
+/prebuilt-providers https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md#prebuilt-providers
