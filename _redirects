@@ -28,3 +28,4 @@
 /multiple-stacks   https://github.com/hashicorp/terraform-cdk/blob/69e077545f82dd9ee199d8da45ba84503e59da2d/docs/working-with-cdk-for-terraform/app-stacks-concept.md
 /plus              https://github.com/cdktf-plus/cdktf-plus
 /watch             https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/watch.md
+/links             https://github.com/skorfmann/cdktf-redirects/blob/master/_redirects
