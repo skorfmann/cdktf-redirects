@@ -43,4 +43,5 @@ Static redirector for [cdk.tf](http://cdk.tf) - Edit the [\_redirects](./_redire
 /variables         https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/terraform-variables.md
 /provider-generation https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md#importing-providers-and-modules
 /telemetry         https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/telemetry.md
+/convert-limitations   https://github.com/hashicorp/terraform-cdk/blob/main/packages/@cdktf/hcl2cdk/README.md#known-limitations
 ```
