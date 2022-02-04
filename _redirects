@@ -8,7 +8,7 @@
 /bug                             https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=bug&template=bug-report.md&title=
 /escape-hatch                    https://www.terraform.io/docs/cdktf/concepts/providers-and-resources.html#escape-hatch
 /jsii                            https://github.com/aws/jsii
-/constructs                      https://github.com/aws/constructs
+/constructs                      https://www.terraform.io/cdktf/concepts/constructs
 /awesome                         https://github.com/skorfmann/awesome-terraform-cdk
 /imports                         https://www.terraform.io/docs/cdktf/concepts/providers-and-resources.html
 /dev                             https://cdk.dev
@@ -29,7 +29,7 @@
 /watch                           https://www.terraform.io/docs/cdktf/cli-reference/commands.html#watch
 /links                           https://github.com/skorfmann/cdktf-redirects/blob/master/_redirects
 /prebuilt-providers              https://www.terraform.io/docs/cdktf/concepts/providers-and-resources.html#install-pre-built-providers
-/upgrade-constructs-v10          https://github.com/hashicorp/terraform-cdk/blob/main/docs/upgrade-guide/upgrading-to-0.6.md
+/upgrade-constructs-v10          https://www.terraform.io/cdktf/release/upgrade-guide-v0-6
 /testing                         https://www.terraform.io/docs/cdktf/test/unit-tests.html
 /bugs/convert-expressions        https://github.com/hashicorp/terraform-cdk/issues/842
 /bugs/new/convert                https://github.com/hashicorp/terraform-cdk/issues/new?assignees=&labels=bug%2C+new%2C+feature%2Fconvert&template=bug-report.md&title=
@@ -37,6 +37,6 @@
 /provider-generation             https://www.terraform.io/docs/cdktf/concepts/providers-and-resources.html#providers
 /telemetry                       https://www.terraform.io/docs/cdktf/telemetry.html
 /convert-limitations             https://github.com/hashicorp/terraform-cdk/blob/main/packages/@cdktf/hcl2cdk/README.md#known-limitations
-/complex-object-as-configuration https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md#using-references
+/complex-object-as-configuration https://www.terraform.io/cdktf/concepts/providers-and-resources#references
 /docs                            https://www.terraform.io/cdktf
 /adapter                         https://github.com/hashicorp/cdktf-aws-cdk
