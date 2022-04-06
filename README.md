@@ -46,4 +46,6 @@ Static redirector for [cdk.tf](http://cdk.tf) - Edit the [\_redirects](./_redire
 /convert-limitations             https://github.com/hashicorp/terraform-cdk/blob/main/packages/@cdktf/hcl2cdk/README.md#known-limitations
 /complex-object-as-configuration https://github.com/hashicorp/terraform-cdk/blob/main/docs/working-with-cdk-for-terraform/using-providers.md#using-references
 /docs                            https://www.terraform.io/docs/cdktf/
+/adapter                         https://github.com/hashicorp/cdktf-aws-cdk
+/module-map-inputs               https://www.terraform.io/cdktf/concepts/modules#configure-modules
 ```

@@ -40,4 +40,4 @@
 /complex-object-as-configuration https://www.terraform.io/cdktf/concepts/providers-and-resources#references
 /docs                            https://www.terraform.io/cdktf
 /adapter                         https://github.com/hashicorp/cdktf-aws-cdk
-/module-map-inputs               https://www.terraform.io/cdktf/concepts/modules#generate-module-bindings
+/module-map-inputs               https://www.terraform.io/cdktf/concepts/modules#configure-modules
