@@ -41,3 +41,4 @@
 /docs                            https://www.terraform.io/cdktf
 /adapter                         https://github.com/hashicorp/cdktf-aws-cdk
 /module-map-inputs               https://www.terraform.io/cdktf/concepts/modules#configure-modules
+/registry-providers              https://registry.terraform.io/browse/providers
